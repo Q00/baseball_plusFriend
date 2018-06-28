@@ -1,0 +1,10 @@
+C:\Users\개발자 이재규\source\repos\plusFriend_API\message_api\bin\Release\netcoreapp2.0\linux-x64\message_api.deps.json
+C:\Users\개발자 이재규\source\repos\plusFriend_API\message_api\bin\Release\netcoreapp2.0\linux-x64\message_api.runtimeconfig.json
+C:\Users\개발자 이재규\source\repos\plusFriend_API\message_api\bin\Release\netcoreapp2.0\linux-x64\message_api.runtimeconfig.dev.json
+C:\Users\개발자 이재규\source\repos\plusFriend_API\message_api\bin\Release\netcoreapp2.0\linux-x64\message_api.dll
+C:\Users\개발자 이재규\source\repos\plusFriend_API\message_api\bin\Release\netcoreapp2.0\linux-x64\message_api.pdb
+C:\Users\개발자 이재규\source\repos\plusFriend_API\message_api\obj\Release\netcoreapp2.0\linux-x64\message_api.csproj.CoreCompileInputs.cache
+C:\Users\개발자 이재규\source\repos\plusFriend_API\message_api\obj\Release\netcoreapp2.0\linux-x64\message_api.AssemblyInfoInputs.cache
+C:\Users\개발자 이재규\source\repos\plusFriend_API\message_api\obj\Release\netcoreapp2.0\linux-x64\message_api.AssemblyInfo.cs
+C:\Users\개발자 이재규\source\repos\plusFriend_API\message_api\obj\Release\netcoreapp2.0\linux-x64\message_api.dll
+C:\Users\개발자 이재규\source\repos\plusFriend_API\message_api\obj\Release\netcoreapp2.0\linux-x64\message_api.pdb

@@ -1,0 +1,11 @@
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\bin\Debug\netcoreapp2.0\plusFriend_API.deps.json
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\bin\Debug\netcoreapp2.0\plusFriend_API.runtimeconfig.json
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\bin\Debug\netcoreapp2.0\plusFriend_API.runtimeconfig.dev.json
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\bin\Debug\netcoreapp2.0\plusFriend_API.dll
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\bin\Debug\netcoreapp2.0\plusFriend_API.pdb
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\obj\Debug\netcoreapp2.0\plusFriend_API.csprojResolveAssemblyReference.cache
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\obj\Debug\netcoreapp2.0\plusFriend_API.csproj.CoreCompileInputs.cache
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\obj\Debug\netcoreapp2.0\plusFriend_API.AssemblyInfoInputs.cache
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\obj\Debug\netcoreapp2.0\plusFriend_API.AssemblyInfo.cs
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\obj\Debug\netcoreapp2.0\plusFriend_API.dll
+c:\users\개발자 이재규\source\repos\plusFriend_API\plusFriend_API\obj\Debug\netcoreapp2.0\plusFriend_API.pdb
